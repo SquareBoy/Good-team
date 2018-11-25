@@ -19,4 +19,4 @@ And some other information will also be included:
 In terms of data comic, we drew a rough comic strip form by hand(surely it is quite rough now), and later it will included more graphs of data. Basically, it would be similar to the following data comic:
 
 * https://datacomics925658343.wordpress.com/portfolio/scottish-household-survey/
-* https://datacomics925658343.wordpress.com/portfolio/162 (edited)
+* https://datacomics925658343.wordpress.com/portfolio/162
