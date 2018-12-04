@@ -15,7 +15,9 @@ All the Scottish residents, from young people to senior citizens, covering all t
 
 ### Outcomes
 * Leaflet
+  
   We redesign the leaflet to show the importance of this survey, and some of the key data from the results.
 * Data comics
+
   We draw comics about a person who receives a letter from SCJS and use this story to illustrate the importance of this survey and some interesting findings.
 
