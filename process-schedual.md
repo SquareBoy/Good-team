@@ -16,10 +16,7 @@ And some other information will also be included:
 2) people’s perception of police
 3) people’s perception of crime (local crime/national crime)
 
-In terms of data comic, we drew a rough comic strip form by hand( it is quite rough now), and later it will included more graphs of data. Basically, it would be similar to the following data comic:
-
-* https://datacomics925658343.wordpress.com/portfolio/scottish-household-survey/
-* https://datacomics925658343.wordpress.com/portfolio/162
+In terms of data comic, we drew a rough comic strip form by hand( it is quite rough now), and later it will included more graphs of data. 
 
 
 ## 2018/11/28
