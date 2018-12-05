@@ -25,3 +25,6 @@ In terms of data comic, we drew a rough comic strip form by hand(surely it is qu
 ## 2018/11/28
 - finish our final vision for presentation and feedback，see other documents（leaflet and datacomics）
 - prepare  presentation
+
+## 2018/12/05
+- final report
