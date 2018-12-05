@@ -28,3 +28,11 @@ In terms of data comic, we drew a rough comic strip form by hand(surely it is qu
 
 ## 2018/12/05
 - final report
+
+
+## Short-term plan（Needed to be completed during the Christmas holidays）
+
+- Try to keep the design style of leaflets consistent with the style used in SCJS reports so that those who receive the leaflets and reports can understand both easily.
+- Change the manifestation of some data. For example, in the previous version, our understanding of the deprived area is one-sided.
+- Consider more about the factors of government background while making the data comics and setting the characters (pending to discuss with our data holder).
+- Carefully check if there is any other problem in the visualisation before it can be used (e.g. whether there are errors in expressions and data, whether it reflects inequality).
